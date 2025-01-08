@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexwang9" alt="alexwang9" /></a> </p>
 
-- 🔭 I’m currently working on [Collage](mycollage.us)
+- 🔭 I’m currently working on [Collage](mycollage.us), an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising.
 
 - 🌱 I’m currently learning **react, flask**
 
