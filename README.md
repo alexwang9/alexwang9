@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Junior at UMich interested in software and entrepreneurship</h3>
+<h3 align="center">Senior at UMich interested in software and entrepreneurship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexwang9&label=Profile%20views&color=0e75b6&style=flat" alt="alexwang9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexwang9" alt="alexwang9" /></a> </p>
 
-- 🔭 I’m currently working on [Collage](mycollage.us), an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising.
+- 🔭 I’m currently working on Collage, an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising.
 
 - 🌱 I’m currently learning **react, flask**
 
